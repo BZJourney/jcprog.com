@@ -1,0 +1,168 @@
+{
+  "contact_email": "contact@yourcompany.com",
+  "version": "1.0",
+  "sellers": [
+    {
+      "seller_id": "pub-6821312386",
+      "seller_type": "PUBLISHER",
+      "name": "Wattpad Corp.",
+      "domain": "wattpad.com"
+    },
+    {
+      "seller_id": "pub-5031169020",
+      "seller_type": "PUBLISHER",
+      "name": "Hungry Studio",
+      "domain": "hungrystudio.com"
+    },
+    {
+      "seller_id": "pub-8363235008",
+      "seller_type": "PUBLISHER",
+      "name": "Tripledot Studios",
+      "domain": "tripledotstudios.com"
+    },
+    {
+      "seller_id": "pub-7984403616",
+      "seller_type": "PUBLISHER",
+      "name": "Voodoo",
+      "domain": "voodoo.io"
+    },
+    {
+      "seller_id": "pub-2151147387",
+      "seller_type": "PUBLISHER",
+      "name": "Brainium Studios",
+      "domain": "brainium.com"
+    },
+    {
+      "seller_id": "pub-7596555532",
+      "seller_type": "PUBLISHER",
+      "name": "Optime Software",
+      "domain": "optimesoftware.com"
+    },
+    {
+      "seller_id": "pub-4873176181",
+      "seller_type": "PUBLISHER",
+      "name": "Easybrain",
+      "domain": "easybrain.com"
+    },
+    {
+      "seller_id": "pub-3107555670",
+      "seller_type": "PUBLISHER",
+      "name": "Veraxen Ltd.",
+      "domain": "veraxen.com"
+    },
+    {
+      "seller_id": "pub-2066136872",
+      "seller_type": "PUBLISHER",
+      "name": "Gram Games",
+      "domain": "gram.gs"
+    },
+    {
+      "seller_id": "pub-3087570917",
+      "seller_type": "PUBLISHER",
+      "name": "Musi Inc.",
+      "domain": "musiapp.com"
+    },
+    {
+      "seller_id": "pub-1765303259",
+      "seller_type": "PUBLISHER",
+      "name": "PlaySimple Games",
+      "domain": "playsimple.in"
+    },
+    {
+      "seller_id": "pub-6347742836",
+      "seller_type": "PUBLISHER",
+      "name": "Grindr LLC",
+      "domain": "grindr.com"
+    },
+    {
+      "seller_id": "pub-7557255231",
+      "seller_type": "PUBLISHER",
+      "name": "Wanda Cinemas Games",
+      "domain": "wandacinemasgames.com"
+    },
+    {
+      "seller_id": "pub-1093048234",
+      "seller_type": "PUBLISHER",
+      "name": "IEC Global Pty Ltd",
+      "domain": "iecglobal.com.au"
+    },
+    {
+      "seller_id": "pub-9292030396",
+      "seller_type": "PUBLISHER",
+      "name": "PeopleFun",
+      "domain": "peoplefun.com"
+    },
+    {
+      "seller_id": "pub-3258403057",
+      "seller_type": "PUBLISHER",
+      "name": "Binarystudio 54",
+      "domain": "binarystudio54.com"
+    },
+    {
+      "seller_id": "pub-6691836436",
+      "seller_type": "PUBLISHER",
+      "name": "Puzzle1Studio",
+      "domain": "puzzle1studio.com"
+    },
+    {
+      "seller_id": "pub-9564978782",
+      "seller_type": "PUBLISHER",
+      "name": "Uploss",
+      "domain": "uploss.net"
+    },
+    {
+      "seller_id": "pub-6308078940",
+      "seller_type": "PUBLISHER",
+      "name": "Incolor",
+      "domain": "incolor.com"
+    },
+    {
+      "seller_id": "pub-9820299010",
+      "seller_type": "PUBLISHER",
+      "name": "Rejoy Studio",
+      "domain": "rejoystudio.com"
+    },
+    {
+      "seller_id": "pub-7863213882",
+      "seller_type": "PUBLISHER",
+      "name": "BitMango",
+      "domain": "bitmango.com"
+    },
+    {
+      "seller_id": "pub-5771942834",
+      "seller_type": "PUBLISHER",
+      "name": "Bling Bling Games",
+      "domain": "blingblinggames.com"
+    },
+    {
+      "seller_id": "pub-5508571151",
+      "seller_type": "PUBLISHER",
+      "name": "Lion Studios",
+      "domain": "lionstudios.cc"
+    },
+    {
+      "seller_id": "pub-7999740504",
+      "seller_type": "PUBLISHER",
+      "name": "Big Duck Games LLC",
+      "domain": "bigduckgames.com"
+    },
+    {
+      "seller_id": "pub-5334110508",
+      "seller_type": "PUBLISHER",
+      "name": "MobilityWare",
+      "domain": "mobilityware.com"
+    },
+    {
+      "seller_id": "pub-1029533291",
+      "seller_type": "PUBLISHER",
+      "name": "GeoTechnologies, Inc.",
+      "domain": "geot.jp"
+    },
+    {
+      "seller_id": "pub-2185253661",
+      "seller_type": "PUBLISHER",
+      "name": "Blackout Lab",
+      "domain": "blackout-lab.com"
+    }
+  ]
+}
